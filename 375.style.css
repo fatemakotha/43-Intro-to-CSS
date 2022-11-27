@@ -1,11 +1,22 @@
 body {
-background-color: pink;
+background-color: grey;
 }
 
 h1 {
-color: blue;
+color: red;
 font-size: 80px;
 }
-img {
-background-color: blue;
+
+/*Class is targeted using background .*/
+.brasil {
+background-color: yellow;
+}
+
+.neymar {
+background-color: green;
+height: 200px;
+}
+
+#heading {
+color: yellow;
 }
