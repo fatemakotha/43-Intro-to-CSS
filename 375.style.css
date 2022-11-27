@@ -10,19 +10,19 @@ font-size: 80px;
 /*Class is targeted using background .*/
 .brasil {
 background-color: yellow;
-
 }
+
+.circular {
+border-radius: 50%;
+}
+/*Targets the circular class in class brasil circular*/
 
 .neymar {
 background-color: green;
 height: 200px;
+border-radius: 25%;
 }
 
 #heading {
 color: yellow;
-}
-
-/*Targets the circular class in class brasil circular*/
-.circular {
-border-radius: 100%;
 }
