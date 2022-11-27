@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+    }
+    hr {
+    border-style: none;
+    height: 2px;
+    width: 30%;
+    background-color: pink;
+    border-bottom-style: none;
+    border-top-style: dotted;
+    border-color: cyan;
+    border-width: 5px;
+    }
